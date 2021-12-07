@@ -12,7 +12,7 @@ func _ready():
 	var units = float($Calculator/Months.text)
 	var contribution = float($Calculator/Contribution.text)
 	var years = float($Calculator/Years.text)
-	
+	#
 	#user input not need
 	var year = 1
 	var age = 18
